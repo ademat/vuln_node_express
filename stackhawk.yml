@@ -1,0 +1,4 @@
+app:
+  applicationId: ec6ca395-fa6a-49d3-a761-7e52a44dd822 # (required)
+  env: Development # (required)
+  host: http://localhost:3000 # (required)
